@@ -17,7 +17,8 @@ My name is **Vitor Correa** <br></br>
 <!-- <img align="right" alt="my octocat" width="450px" src="./images/octocat-25.png" /> -->
 </p>
 
-I am a **🇧🇷 brazilian web developer student** on the path to become a full stack **Web Developer**. I love tech but i am also passionate about history, literature and music 🎸🤘🏽.
+I am a **🇧🇷 brazilian web developer student** on the path to become a full stack **Web Developer**. <br>
+I love tech but i am also passionate about history, literature and music 🎸🤘🏽.
 </br><br>
 I'm looking forward to **learn and grow as a developer**, to one day leave my mark on the world and people's lives using **< code />**
 <br>
