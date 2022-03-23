@@ -1,7 +1,7 @@
 
 ### < Hello World! 👋 > </br>
 
-My name is **Vitor Correa**🖤 <br></br>
+My name is **Vitor Correa** <br></br>
 
 <p align="left">
   
@@ -14,18 +14,17 @@ My name is **Vitor Correa**🖤 <br></br>
 </a>
 <br>
 
-<img align="right" alt="my octocat" width="450px" src="./images/octocat.png" />
+<!-- <img align="right" alt="my octocat" width="450px" src="./images/octocat-25.png" /> -->
 </p>
 
 I am a **🇧🇷 brazilian web developer student** on the path to become a full stack **Web Developer**. I love tech but i am also passionate about history, literature and music 🎸🤘🏽.
 </br><br>
-I'm looking forward to **learn and grow as a developer**,
-</br><br>
-I wanna leave my mark on the world and people's lives using **< code />** <br>
+I'm looking forward to **learn and grow as a developer**, to one day leave my mark on the world and people's lives using **< code />**
+<br>
 
 ---
 
-### Languages and Tools:  
+### Languages and Tools i've learned so far:  
 
 <code><img height="38" src="./images/linux.png" alt="linux"/></code>
 <code><img height="38" src="./images/terminal.png" alt="terminal"></code>
@@ -37,7 +36,7 @@ I wanna leave my mark on the world and people's lives using **< code />** <br>
 
 ---
 
-### Stats
+### My Stats
 
 <a target="_blank" href="https://github.com/VitorCorrea18">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true" />
