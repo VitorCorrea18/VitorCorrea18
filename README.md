@@ -39,11 +39,11 @@ I'm looking forward to **learn and grow as a developer**, to one day leave my ma
 ### My Stats
 
 <a target="_blank" href="https://github.com/VitorCorrea18">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
 </a>
 
-<a target="_blank" href="https://github.com/thayscosta3">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCorrea18&layout=compact&theme=gruvbox&hide=shell&show_icons=true" />
+<a target="_blank" href="https://github.com/VitorCorrea18">
+  <img align="center" heigth="160" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCorrea18&layout=compact&theme=gruvbox&hide=shell&show_icons=true&hide_border=true" />
 </a>
 
 <br></br>
