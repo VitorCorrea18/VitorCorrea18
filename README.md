@@ -5,12 +5,12 @@ My name is **Vitor Correa**🖤 <br></br>
 
 <p align="left">
   
-<a target="_blank" href="https://www.linkedin.com/in/m-thays-costa/">
-  <img align="middle" alt="LinkedIN" width="35px" src="./images/linkedin.jpg" />
+<a target="_blank" href="https://www.linkedin.com/in/vitorcorrea18/">
+  <img align="middle" alt="LinkedIN" width="35px" src="./images/linkedin-icon.png" />
 </a>
 
-<a target="_blank" href="mailto:thayscosta3@gmail.com">
-  <img align="middle" alt="E-mail" width="45px" src="./images/gmail.jpg" /><br>
+<a target="_blank" href="mailto:vitorcorrea18@gmail.com">
+  <img align="middle" alt="E-mail" width="45px" src="./images/gmail.png" /><br>
 </a>
 <br>
 
@@ -40,11 +40,11 @@ I wanna leave my mark on the world and people's lives using **< code />** <br>
 ### Stats
 
 <a target="_blank" href="https://github.com/VitorCorrea18">
-  <img align="center" height="160" src="(https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
 <a target="_blank" href="https://github.com/thayscosta3">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCorrea18&layout=compact&theme=gruvbox&hide=shell&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCorrea18&layout=compact&theme=gruvbox&hide=shell&show_icons=true" />
 </a>
 
 <br></br>
@@ -55,12 +55,3 @@ I wanna leave my mark on the world and people's lives using **< code />** <br>
 </p>
 
 ---
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorCorrea18&hide=stars,issues&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCorrea18&layout=compact&theme=gruvbox&hide=shell&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Stats by @anuraghazra
-
-![image](https://user-images.githubusercontent.com/90797919/159570565-dc2c9e32-503c-45d9-a919-4fb701a9659a.png) -->
-
