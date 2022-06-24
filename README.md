@@ -27,13 +27,13 @@ I'm looking forward to **learn and grow as a developer**, to one day leave my ma
 
 ### Languages and Tools i've learned so far:  
 
-<code><img height="38" src="./images/linux.png" alt="linux"/></code>
-<code><img height="38" src="./images/terminal.png" alt="terminal"></code>
-<code><img height="38" src="./images/git.png" alt="git"/></code>
-<code><img height="38" src="./images/html5.png" alt="html5"/></code>
-<code><img height="38" src="./images/css3.png" alt="css3"/></code>
-<code><img height="38" src="./images/js.png" alt="Java Script"></code>
-<code><img height="38" src="./images/react.png" alt="react"></code>
+<code><img height="38" src="./images/linux.svg" alt="linux"/></code>
+<code><img height="38" src="./images/terminal.svg" alt="terminal"></code>
+<code><img height="38" src="./images/git.svg" alt="git"/></code>
+<code><img height="38" src="./images/html.svg" alt="html5"/></code>
+<code><img height="38" src="./images/css.svg" alt="css3"/></code>
+<code><img height="38" src="./images/js.svg" alt="Java Script"></code>
+<code><img height="38" src="./images/react.svg" alt="react"></code>
 
 ---
 
