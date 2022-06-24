@@ -6,11 +6,11 @@ My name is **Vitor Correa** <br></br>
 <p align="left">
   
 <a target="_blank" href="https://www.linkedin.com/in/vitorcorrea18/">
-  <img align="middle" alt="LinkedIN" width="35px" src="./images/linkedin-icon.png" />
+  <img align="middle" alt="LinkedIN" width="35px" src="./images/linkedin.svg" />
 </a>
 
 <a target="_blank" href="mailto:vitorcorrea18@gmail.com">
-  <img align="middle" alt="E-mail" width="45px" src="./images/gmail.png" /><br>
+  <img align="middle" alt="E-mail" width="45px" src="./images/gmail.svg" /><br>
 </a>
 <br>
 
@@ -28,10 +28,9 @@ I'm looking forward to **learn and grow as a developer**, to one day leave my ma
 ### Languages and Tools i've learned so far:  
 
 <code><img height="38" src="./images/linux.svg" alt="linux"/></code>
-<code><img height="38" src="./images/terminal.svg" alt="terminal"></code>
 <code><img height="38" src="./images/git.svg" alt="git"/></code>
-<code><img height="38" src="./images/html.svg" alt="html5"/></code>
-<code><img height="38" src="./images/css.svg" alt="css3"/></code>
+<code><img height="38" src="./images/html.svg" alt="html"/></code>
+<code><img height="38" src="./images/css.svg" alt="css"/></code>
 <code><img height="38" src="./images/js.svg" alt="Java Script"></code>
 <code><img height="38" src="./images/react.svg" alt="react"></code>
 
