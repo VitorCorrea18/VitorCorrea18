@@ -1,7 +1,7 @@
 
 ### < Hello World! 👋 > </br>
 
-My name is **Vitor Correa** <br></br>
+I'm **Vitor Correa** <br></br>
 
 <p align="left">
   
@@ -17,15 +17,15 @@ My name is **Vitor Correa** <br></br>
 <!-- <img align="right" alt="my octocat" width="450px" src="./images/octocat-25.png" /> -->
 </p>
 
-I am a **🇧🇷 brazilian web developer student** on the path to become a full stack **Web Developer**. <br>
+I am a **🇧🇷 brazilian Font End Web Developer** on the path to become a Full Stack **Web Developer**. <br>
 I love tech but i am also passionate about history, literature and music 🎸🤘🏽.
 </br><br>
-I'm looking forward to **learn and grow as a developer**, to one day leave my mark on the world and people's lives using **< code />**
+I'm looking forward to **learn and grow as a developer**!
 <br>
 
 ---
 
-### Languages and Tools i've learned so far:  
+### My current Development Stack:  
 
 <code><img height="38" src="./images/linux.svg" alt="linux"/></code>
 <code><img height="38" src="./images/git.svg" alt="git"/></code>
@@ -33,6 +33,21 @@ I'm looking forward to **learn and grow as a developer**, to one day leave my ma
 <code><img height="38" src="./images/css.svg" alt="css"/></code>
 <code><img height="38" src="./images/js.svg" alt="Java Script"></code>
 <code><img height="38" src="./images/react.svg" alt="react"></code>
+<code><img height="38" src="./images/redux.svg" alt="redux"></code>
+<code><img height="38" src="./images/docker.svg" alt="docker"></code>
+
+---
+
+### Stack I'm currently studying:
+
+<code><img height="38" src="./images/node.svg" alt="nodejs"/></code>
+<code><img height="38" src="./images/mysql.svg" alt="mysql"/></code>
+<code><img height="38" src="./images/sequelize.svg" alt="sequelize"/></code>
+<code><img height="38" src="./images/jwt.svg" alt="JWT"/></code>
+<code><img height="38" src="./images/heroku.svg" alt="heroku"></code>
+<code><img height="38" src="./images/typescript.svg" alt="typescript"></code>
+<code><img height="38" src="./images/mongodb.svg" alt="mongodb"></code>
+<code><img height="38" src="./images/python.svg" alt="python"></code>
 
 ---
 
