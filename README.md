@@ -23,6 +23,9 @@ I love tech but i am also passionate about history, literature and music ðŸŽ¸ðŸ¤
 I'm looking forward to **learn and grow as a developer**!
 <br>
 
+
+ ## Check out my <a target="_blank" href="https://vitorcorrea18.github.io">**Portifolio**</a>
+
 ---
 
 ### My current Development Stack:  
@@ -35,15 +38,16 @@ I'm looking forward to **learn and grow as a developer**!
 <code><img height="38" src="./images/react.svg" alt="react"></code>
 <code><img height="38" src="./images/redux.svg" alt="redux"></code>
 <code><img height="38" src="./images/docker.svg" alt="docker"></code>
+<br>
 
 ---
 
 ### Stack I'm currently studying:
 
-<code><img height="38" src="./images/node.svg" alt="nodejs"/></code>
+<code><img height="38" src="./images/node-js.svg" alt="nodejs"/></code>
 <code><img height="38" src="./images/mysql.svg" alt="mysql"/></code>
 <code><img height="38" src="./images/sequelize.svg" alt="sequelize"/></code>
-<code><img height="38" src="./images/jwt.svg" alt="JWT"/></code>
+<code><img height="38" src="./images/jsonwebtokens.svg" alt="JWT"/></code>
 <code><img height="38" src="./images/heroku.svg" alt="heroku"></code>
 <code><img height="38" src="./images/typescript.svg" alt="typescript"></code>
 <code><img height="38" src="./images/mongodb.svg" alt="mongodb"></code>
