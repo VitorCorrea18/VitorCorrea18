@@ -17,41 +17,38 @@ I'm **Vitor Correa** <br></br>
 <!-- <img align="right" alt="my octocat" width="450px" src="./images/octocat-25.png" /> -->
 </p>
 
-I am a **🇧🇷 brazilian Font End Web Developer** on the path to become a Full Stack **Web Developer**. <br>
-I love tech but i am also passionate about history, literature and music 🎸🤘🏽.
+I am a **🇧🇷 brazilian Full Stack Web Developer** that loves tech but is also passionate about history, literature and music 🎸🤘🏽.
 </br><br>
-I'm looking forward to **learn and grow as a developer**!
-<br>
 
 
- ## Check out my <a target="_blank" href="https://vitorcorrea18.github.io">**Portifolio**</a>
+ ## Check out my <a target="_blank" href="https://vitorcorrea18.github.io">**Portfolio**</a>
 
 ---
 
 ### My current Development Stack:  
 
-<code><img height="38" src="./images/linux.svg" alt="linux"/></code>
-<code><img height="38" src="./images/git.svg" alt="git"/></code>
-<code><img height="38" src="./images/html.svg" alt="html"/></code>
-<code><img height="38" src="./images/css.svg" alt="css"/></code>
-<code><img height="38" src="./images/js.svg" alt="Java Script"></code>
-<code><img height="38" src="./images/react.svg" alt="react"></code>
-<code><img height="38" src="./images/redux.svg" alt="redux"></code>
-<code><img height="38" src="./images/docker.svg" alt="docker"></code>
+<code><a target="_blank" href="https://ubuntu.com/desktop"><img height="38" src="./images/linux.svg" alt="linux"/></a></code>
+<code><a target="_blank" href="https://git-scm.com/"><img height="38" src="./images/git.svg" alt="git"/></a></code>
+<code><a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img height="38" src="./images/html.svg" alt="html"/></a></code>
+<code><a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height="38" src="./images/css.svg" alt="css"/></a></code>
+<code><a target="_blank" href="https://www.javascript.com/"><img height="38" src="./images/js.svg" alt="Javascript"></a></code>
+<code><a target="_blank" href="https://pt-br.reactjs.org/"><img height="38" src="./images/react.svg" alt="react"></a></code>
+<code><a target="_blank" href="https://redux.js.org/"><img height="38" src="./images/redux.svg" alt="redux"></a></code> <br> <br>
+<code><a target="_blank" href="https://docs.docker.com/"><img height="38" src="./images/docker.svg" alt="docker"></a></code>
+<code><a target="_blank" href="https://nodejs.org/en/"><img height="38" src="./images/node-js.svg" alt="nodejs"/></a></code>
+<code><a target="_blank" href="https://www.mysql.com/"><img height="38" src="./images/mysql.svg" alt="mysql"/></a></code>
+<code><a target="_blank" href="https://sequelize.org/"><img height="38" src="./images/sequelize.svg" alt="sequelize"/></a></code>
+<code><a target="_blank" href="https://jwt.io/"><img height="38" src="./images/jsonwebtokens.svg" alt="JWT"/></a></code>
+<code><a target="_blank" href="https://www.heroku.com/"><img height="38" src="./images/heroku.svg" alt="heroku"></a></code>
+<code><a target="_blank" href="https://www.typescriptlang.org/"><img height="38" src="./images/typescript.svg" alt="typescript"></a></code>
 <br>
 
 ---
 
 ### Stack I'm currently studying:
 
-<code><img height="38" src="./images/node-js.svg" alt="nodejs"/></code>
-<code><img height="38" src="./images/mysql.svg" alt="mysql"/></code>
-<code><img height="38" src="./images/sequelize.svg" alt="sequelize"/></code>
-<code><img height="38" src="./images/jsonwebtokens.svg" alt="JWT"/></code>
-<code><img height="38" src="./images/heroku.svg" alt="heroku"></code>
-<code><img height="38" src="./images/typescript.svg" alt="typescript"></code>
-<code><img height="38" src="./images/mongodb.svg" alt="mongodb"></code>
-<code><img height="38" src="./images/python.svg" alt="python"></code>
+<code><a target="_blank" href="https://www.mongodb.com/"><img height="38" src="./images/mongodb.svg" alt="mongodb"></a></code>
+<code><a target="_blank" href="https://www.python.org/"><img height="38" src="./images/python.svg" alt="python"></a></code>
 
 ---
 
